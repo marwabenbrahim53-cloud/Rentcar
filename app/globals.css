@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  /* Polices */
+  --font-family-raleway: var(--font-raleway);
+  --font-family-inter: var(--font-inter);
+
+  /* Palette RentCar */
+  --color-rentcar-navy: #0f172a;
+  --color-rentcar-blue: #1d4ed8;
+  --color-rentcar-sky: #38bdf8;
+  --color-rentcar-accent: #f59e0b;
+  --color-rentcar-light: #f8fafc;
+  --color-rentcar-dark: #1e293b;
+  --color-rentcar-muted: #64748b;
+  --color-rentcar-white: #ffffff;
+}
